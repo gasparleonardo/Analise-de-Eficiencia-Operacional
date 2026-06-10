@@ -47,5 +47,5 @@ Este projeto foi desenvolvido com o objetivo de analisar a performance e a efici
 ## Como Executar o Projeto
 
 1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+```bash
+   git clone [https://github.com/gasparleonardo/Analise-de-Eficiencia-Operacional.git](https://github.com/gasparleonardo/Analise-de-Eficiencia-Operacional.git)
